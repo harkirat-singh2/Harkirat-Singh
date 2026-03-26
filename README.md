@@ -97,14 +97,6 @@ I specialize in designing **production-ready AI solutions** using **RAG pipeline
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harkirat-singh2&theme=tokyonight&no-frame=true" />
-</p>>
-
----
-
 ## 📈 Activity Graph
 
 <p align="center">
@@ -112,6 +104,15 @@ I specialize in designing **production-ready AI solutions** using **RAG pipeline
 </p>
 
 ---
+
+## 🚀 Highlights  
+
+- 🧠 Built end-to-end **RAG systems** with ~90% accuracy  
+- ⚡ Designed **LLM agents with tool use + memory**  
+- 📊 Automated pipelines handling **10,000+ records/run**  
+- 🔐 Developed secure **FastAPI backends with JWT auth**
+
+--- 
 
 ## 📈 What I'm Working On
 
