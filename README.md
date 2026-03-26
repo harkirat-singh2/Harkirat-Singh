@@ -84,8 +84,7 @@ I specialize in designing **production-ready AI solutions** using **RAG pipeline
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harkirat-singh2&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harkirat-singh2&layout=compact&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api?username=harkirat-singh2&show_icons=true&theme=tokyonight&cache_seconds=86400&hide_border=true" />
 </p>
 
 ---
@@ -101,7 +100,7 @@ I specialize in designing **production-ready AI solutions** using **RAG pipeline
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harkirat-singh2&theme=tokyonight&no-frame=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=harkirat-singh2&theme=tokyonight&no-frame=true&margin-w=10&no-bg=true" />
 </p>
 
 ---
