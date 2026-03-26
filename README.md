@@ -1,5 +1,121 @@
 # 💫 About Me:
-# 👋 Hi, I'm Harkirat Singh<br><br>🚀 **Generative AI Engineer | Backend Developer**<br>📍 Pune, India<br><br>---<br><br>## 🧠 About Me<br><br>I’m a Generative AI Engineer passionate about building **LLM-powered applications** and **scalable backend systems**.<br><br>I specialize in designing **production-ready AI solutions** using **RAG pipelines, LangChain, and modern LLM APIs**, with a strong focus on clean architecture and performance optimization.<br><br>---<br><br>## ⚡ Tech Stack<br><br>### 🧠 Generative AI<br><br>![LangChain](https://img.shields.io/badge/LangChain-black?style=for-the-badge)<br>![LlamaIndex](https://img.shields.io/badge/LlamaIndex-blue?style=for-the-badge)<br>![RAG](https://img.shields.io/badge/RAG-Pipelines-green?style=for-the-badge)<br>![Prompt Engineering](https://img.shields.io/badge/Prompt--Engineering-orange?style=for-the-badge)<br><br>### 🤖 LLM APIs<br><br>![OpenAI](https://img.shields.io/badge/OpenAI-GPT4o-purple?style=for-the-badge)<br>![Anthropic](https://img.shields.io/badge/Claude-red?style=for-the-badge)<br>![HuggingFace](https://img.shields.io/badge/HuggingFace-yellow?style=for-the-badge)<br><br>### 🗄️ Vector Databases<br><br>![Pinecone](https://img.shields.io/badge/Pinecone-teal?style=for-the-badge)<br>![ChromaDB](https://img.shields.io/badge/ChromaDB-blue?style=for-the-badge)<br>![FAISS](https://img.shields.io/badge/FAISS-gray?style=for-the-badge)<br><br>### ⚙️ Backend & Tools<br><br>![FastAPI](https://img.shields.io/badge/FastAPI-green?style=for-the-badge)<br>![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-red?style=for-the-badge)<br>![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge)<br>![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge)<br>![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge)<br>![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge)<br><br>---<br><br>## 🚀 Featured Projects<br><br>### 📄 RAG-Powered Document Q&A System<br><br>* Built end-to-end **RAG pipeline** using LangChain & ChromaDB<br>* Achieved **~90% answer relevance** with **sub-2s response time**<br>* Integrated **OpenAI embeddings + GPT-4o** for context-aware responses<br>* Deployed via **FastAPI with JWT authentication & logging**<br><br>---<br><br>### 🤖 LangChain Agent with Tool Use<br><br>* Multi-tool AI agent (web search, calculator, DB lookup)<br>* Integrated **Claude + GPT-4o fallback** → reduced cost by ~40%<br>* Supports **multi-turn conversations with memory**<br>* Designed modular architecture with retry logic<br><br>---<br><br>### 📊 Web Scraping & Data Pipeline<br><br>* Scraped **10,000+ records/run** from multiple e-commerce sites<br>* Automated pipelines using **Pandas + MySQL + APScheduler**<br>* Achieved **98%+ success rate** with logging & error handling<br><br>---<br><br>### 📚 REST API — Book Inventory System<br><br>* Built **FastAPI backend** with SQLAlchemy & JWT auth<br>* Reduced manual effort by **~60%**<br>* Clean architecture + Swagger docs + validation<br><br>---<br><br><br>## 📈 What I'm Working On<br><br>* Scaling **RAG systems for real-world applications**<br>* Advanced **LLM system design & agent architectures**<br>* Optimizing **cost, latency, and reliability in AI pipelines**<br><br>---<br><br>## 📫 Connect With Me<br><br>* 💼 LinkedIn: [Your LinkedIn]<br>* 🌐 Portfolio: [Your Portfolio]<br>* 📧 Email: [harkirat.email@gmail.com](mailto:harkirat.email@gmail.com)<br><br>---<br><br>⭐ *Always open to internships, collaborations, and impactful AI projects*<br>
+# 👋 Hi, I'm Harkirat Singh
+
+🚀 **Generative AI Engineer | Backend Developer**
+📍 Pune, India
+
+---
+
+## 🧠 About Me
+
+I’m a Generative AI Engineer passionate about building **LLM-powered applications** and **scalable backend systems**.
+
+I specialize in designing **production-ready AI solutions** using **RAG pipelines, LangChain, and modern LLM APIs**, with a strong focus on clean architecture and performance optimization.
+
+---
+
+## ⚡ Tech Stack
+
+### 🧠 Generative AI
+
+![LangChain](https://img.shields.io/badge/LangChain-black?style=for-the-badge)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-blue?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-Pipelines-green?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt--Engineering-orange?style=for-the-badge)
+
+### 🤖 LLM APIs
+
+![OpenAI](https://img.shields.io/badge/OpenAI-GPT4o-purple?style=for-the-badge)
+![Anthropic](https://img.shields.io/badge/Claude-red?style=for-the-badge)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-yellow?style=for-the-badge)
+
+### 🗄️ Vector Databases
+
+![Pinecone](https://img.shields.io/badge/Pinecone-teal?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-blue?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-gray?style=for-the-badge)
+
+### ⚙️ Backend & Tools
+
+![FastAPI](https://img.shields.io/badge/FastAPI-green?style=for-the-badge)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-red?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge)
+
+---
+
+## 🚀 Featured Projects
+
+### 📄 RAG-Powered Document Q&A System
+
+* Built end-to-end **RAG pipeline** using LangChain & ChromaDB
+* Achieved **~90% answer relevance** with **sub-2s response time**
+* Integrated **OpenAI embeddings + GPT-4o** for context-aware responses
+* Deployed via **FastAPI with JWT authentication & logging**
+
+---
+
+### 🤖 LangChain Agent with Tool Use
+
+* Multi-tool AI agent (web search, calculator, DB lookup)
+* Integrated **Claude + GPT-4o fallback** → reduced cost by ~40%
+* Supports **multi-turn conversations with memory**
+* Designed modular architecture with retry logic
+
+---
+
+### 📊 Web Scraping & Data Pipeline
+
+* Scraped **10,000+ records/run** from multiple e-commerce sites
+* Automated pipelines using **Pandas + MySQL + APScheduler**
+* Achieved **98%+ success rate** with logging & error handling
+
+---
+
+### 📚 REST API — Book Inventory System
+
+* Built **FastAPI backend** with SQLAlchemy & JWT auth
+* Reduced manual effort by **~60%**
+* Clean architecture + Swagger docs + validation
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harkirat-singh2&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harkirat-singh2&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harkirat-singh2&theme=tokyo-night" />
+</p>
+
+---
+
+## 📈 What I'm Working On
+
+* Scaling **RAG systems for real-world applications**
+* Advanced **LLM system design & agent architectures**
+* Optimizing **cost, latency, and reliability in AI pipelines**
+
+---
+
+## 📫 Connect With Me
+
+* 💼 LinkedIn: https://www.linkedin.com/in/harkiratsingh11
+* 💻 GitHub: https://github.com/harkirat-singh2
+* 📧 Email: [harkirat.email@gmail.com](mailto:harkirat.email@gmail.com)
+
+---
+
+⭐ *Always open to internships, collaborations, and impactful AI projects*
 
 
 # 💻 Tech Stack:
